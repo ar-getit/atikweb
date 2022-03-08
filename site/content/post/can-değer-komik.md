@@ -20,4 +20,3 @@ xdb
 
 
 
-FALAN FİLAN İNTER MİLAN
