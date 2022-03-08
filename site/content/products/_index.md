@@ -1,6 +1,8 @@
 ---
 title: Etkinlikler
+image: img/wallpaperflare.com_wallpaper3.jpg
 heading: Yaptığımız etkinlikler
+description: etkinlikler
 intro:
   blurbs:
     - image: /img/illustrations-tutorials.svg
@@ -12,18 +14,15 @@ intro:
   description: |
     merhaba
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: bir takım yazılar
+  description: |
+    yazıların devamodbşklbmsmbimlb
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/logo.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/wallpaperflare.com_wallpaper3.jpg
   image3:
     alt: atik
     image: img/logo.png
@@ -48,6 +47,4 @@ pricing:
       items:
         - avavav
 type: products
-image: /img/products-jumbotron.jpg
-description: etkinlikler
 ---
